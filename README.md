@@ -2,6 +2,7 @@
 
 This web site is a combination of small libs and simple code in order to test the most efficient and simple way to have efficient pages with ASP.NET today.
 
+
 ## About
 
 This solution as the purpose of testing in a very simple
@@ -51,6 +52,11 @@ My initial target was to have something around 50 concurent users with a mean re
 * Create Sql stuff needed with the `WebTestData.sql` script
 * update your connectionString into the web.config
 * run it!
+* 
+Or test it on your site : 
+
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
 
 ## Test
 
